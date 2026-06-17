@@ -64,7 +64,7 @@ override-compositor=enabled
 scroll-factor=0.3
 
 tap=enabled
-natural-scroll=disabled
+natural-scroll=enable
 EOF
 
 echo "------------------------------------------------"
