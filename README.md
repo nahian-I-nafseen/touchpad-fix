@@ -1,8 +1,5 @@
 # touchpad-fix
 
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 # 🖱️ touchpad-sensitivity-tweak
 
 A universal bash script to adjust touchpad scroll sensitivity for Linux distributions using Wayland (compatible with GNOME, KDE, and other Wayland-based desktop environments).
@@ -93,6 +90,6 @@ _Don't forget to restart your session after removing the file!_
 
 ---
 
-**Credits:** This project utilizes the excellent `libinput-config` utility created by [@warningnonpotablewater](https://gitlab.com/warningnonpotablewater)
+**Credits:** This project utilizes the excellent `libinput-config`
 
  ⭐ **If this tweak helped you, please consider giving the repository a star to help others find it!**
